@@ -46,7 +46,7 @@ function createMyBot() {
         host: 'donutsmp.net',
         port: 25565,
         auth: 'microsoft', // Đổi thành 'offline' nếu server là crack
-        username: 'haovietdthw123@outlook.com', // Đổi thành tên nhân vật nếu dùng 'offline'
+        username: 'letrungvinhv@outlook.com', // Đổi thành tên nhân vật nếu dùng 'offline'
         version: '1.21.1',
         profilesFolder: './auth-cache' // Lưu cache đăng nhập Microsoft để khỏi đăng nhập lại
     });
